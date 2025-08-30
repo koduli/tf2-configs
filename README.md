@@ -1,7 +1,1 @@
-# tf2-configs
-
-launch options:
-
-```
--novid -nojoy -console -nosteamcontroller -fullscreen -high
-```
+tf2-configs
