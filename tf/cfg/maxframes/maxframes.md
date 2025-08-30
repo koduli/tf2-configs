@@ -6,22 +6,22 @@ This config is already max-FPS optimized. If you want to use this config but adj
 fps_max
 ```
 
-300 (current setting) = good balance
-0 = uncapped (can be unstable, but gives max raw FPS)
+300 (current setting) = good balance<br>
+0 = uncapped (can be unstable, but gives max raw FPS)<br>
 If you notice stutters, try capping to something your PC can hold (144 / 240).
 
 ```
 mat_queue_mode
 ```
 
-2 (current setting) = multithreaded, best for modern CPUs
+2 (current setting) = multithreaded, best for modern CPUs<br>
 If you ever crash or see glitches, try -1 (auto-detect).
 
 ```
 mat_picmip
 ```
 
-2 (current setting) = ugliest but fastest
+2 (current setting) = ugliest but fastest<br>
 If you want slightly nicer textures with only a tiny performance cost, try 1.
 
 ## Recommended launch options with this config
